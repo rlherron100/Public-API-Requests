@@ -92,4 +92,3 @@ function closeModal () {            //event handler function listens for a click
 };
 
 
-
